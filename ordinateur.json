@@ -1,0 +1,38 @@
+[{
+    "nom":"Annick",
+    "ordinateur":{
+    "HDD":320,
+    "LecteurCD":true,
+    "processeur": "Intel Core i3 - 330M",
+    "RAM":"4g",
+    "NbDeCoeur":2,
+    "surnom":"Xenouna",
+    "description":"Sony Vaio VPC-EB1E1E/WI" 
+    }
+},
+
+    {
+        "nom": "loic",
+        "ordinateur": {
+            "hdd": 500,
+            "lecteurCd": false,
+            "processeur": "Intel 1.2Ghz",
+            "ram": "16g",
+            "nbDeCoeur": 4,
+            "surnom": "toutouille",
+            "description": "mon ordinateur de travail"
+        }
+    },
+    {
+        "nom": "melody",
+        "ordinateur":{
+            "hdd":650,
+            "ram": "32g",
+            "lecteurCd": true,
+            "processeur": "intel",
+            "nbDeCoeur": 2,
+            "surnom": "Pomme de terre",
+            "description": "Il est joli et il brille"
+        }
+    }
+]

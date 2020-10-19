@@ -1,0 +1,1 @@
+{"version":3,"sources":["ordinateur.js"],"names":["$","ajax","then","json","console","log"],"mappings":"AAAAA,CAAC,CAACC,IAAF,CAAO,mBAAP,EAA4BC,IAA5B,CAAiC,UAASC,IAAT,EAAc;AAC3CC,EAAAA,OAAO,CAACC,GAAR,CAAYF,IAAZ;AACH,CAFD","file":"ordinateur.296628ae.js","sourceRoot":"..","sourcesContent":["$.ajax(\"./ordinateur.json\").then(function(json){\r\n    console.log(json);\r\n});"]}
